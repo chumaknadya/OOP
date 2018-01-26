@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/nadya/RiderProjects/lab1/lab1/lab1.csproj",
+    "projectName": "lab1",
+    "projectPath": "/home/nadya/RiderProjects/lab1/lab1/lab1.csproj",
+    "outputPath": "/home/nadya/RiderProjects/lab1/lab1/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0.0"
+        }
+      }
+    }
+  }
+}
