@@ -1,0 +1,5 @@
+/home/nadya/RiderProjects/lab4/lab4/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nadya/RiderProjects/lab4/lab4/bin/Debug/lab4.pdb
+/home/nadya/RiderProjects/lab4/lab4/bin/Debug/lab4.exe
+/home/nadya/RiderProjects/lab4/lab4/obj/Debug/lab4.exe
+/home/nadya/RiderProjects/lab4/lab4/obj/Debug/lab4.pdb
